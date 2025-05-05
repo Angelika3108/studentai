@@ -5,3 +5,5 @@ Main tasks were to unpack and analyse these files using Pyhton code and Panda li
 Tasks, variables and code comments are in Lithuanian language.
 
 Here are the charts for Students average grade:
+### Chart Set 
+![Chart1](images/Chart1.jpg)
