@@ -6,4 +6,4 @@ Tasks, variables and code comments are in Lithuanian language.
 
 Here are the charts for Students average grade:
 ### Chart Set 
-![Chart1](images/Chart1.jpg)
+![Chart1](Chart1.jpg)
